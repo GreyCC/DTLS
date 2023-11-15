@@ -1,0 +1,13 @@
+apex==0.9.10.dev0
+einops
+lpips
+matplotlib
+numpy
+opencv_python_headless
+Pillow
+scikit_image
+scipy
+torch
+torchgeometry
+torchvision
+tqdm
