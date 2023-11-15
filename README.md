@@ -1,9 +1,19 @@
-# DTLS
-This is official code page of 
+# Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - a Non-Denoising Model
+This is the official code page of Domain Transfer in Latent Space (DTLS) 
 
-***Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - a Non-Denoising Model***
+Please refer the paper on arXiv from [arXiv](https://arxiv.org/abs/2311.02358)
 
-Refer the paper on arXiv from [arXiv](https://arxiv.org/abs/2311.02358)
+Citation:
+```
+@misc{hui2023domain,
+      title={Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - a Non-Denoising Model}, 
+      author={Chun-Chuen Hui and Wan-Chi Siu and Ngai-Fong Law},
+      year={2023},
+      eprint={2311.02358},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
 
 ## Update 
 We are building this GitHub page and will update more information later.
