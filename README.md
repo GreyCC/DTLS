@@ -1,4 +1,6 @@
 # Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - a Non-Denoising Model
+EDIT: We are working on a better version base on this concept.
+
 This is the official code page of Domain Transfer in Latent Space (DTLS) 
 
 Please refer the paper on arXiv from [arXiv](https://arxiv.org/abs/2311.02358)
