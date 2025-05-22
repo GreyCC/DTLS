@@ -4,7 +4,8 @@ This is the program code of our arXiv paper "Domain Transfer in Latent Space (DT
 
 Please refer the paper from this website [https://arxiv.org/abs/2311.02358](https://arxiv.org/abs/2311.02358)
 
-Cite our paper [IEEE format]: C. C. Hui, W. C. Siu, and N. F. Law, "Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - A Non-Denoising Model," arXiv preprint arXiv:2311.02358 [eess.IV], 2023. 
+Cite our paper in IEEE format: 
+Chun-Chuen Hui, Wan-Chi Siu, and Ngai-Fong Law, "Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - A Non-Denoising Model," arXiv preprint arXiv:2311.02358 [eess.IV], 2023. 
 
 Or copy the Bibtex format:
 ```
