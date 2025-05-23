@@ -2,12 +2,11 @@
 
 This is the program code of our arXiv paper below.
 
-Refer the paper from this website [https://arxiv.org/abs/2311.02358](https://arxiv.org/abs/2311.02358)
+Please refer the paper from this website [https://arxiv.org/abs/2311.02358](https://arxiv.org/abs/2311.02358)
 
-Please read the above paper and it can be cite as: 
+Please read the above paper and it can be cited as: 
 
 Chun-Chuen Hui, Wan-Chi Siu, and Ngai-Fong Law, "Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - A Non-Denoising Model," arXiv preprint arXiv:2311.02358, 2023. 
-
 
 Or in Bibtex format:
 ```
