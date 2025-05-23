@@ -9,7 +9,7 @@ Please read the above paper and it can be cite as:
 Chun-Chuen Hui, Wan-Chi Siu, and Ngai-Fong Law, "Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - A Non-Denoising Model," arXiv preprint arXiv:2311.02358, 2023. 
 
 
-Bibtex format:
+Or in Bibtex format:
 ```
 @misc{hui2023domain,
       title={Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution - a Non-Denoising Model}, 
